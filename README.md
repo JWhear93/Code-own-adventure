@@ -1,0 +1,1 @@
+Just open the index for a little adventure! :)
