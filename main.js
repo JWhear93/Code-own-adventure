@@ -1,3 +1,5 @@
+// Console logging
+
 window.console = {
   log: function(str){
 	var node = document.createElement("div");
